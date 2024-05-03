@@ -17,6 +17,7 @@ function App() {
     <HomepageNav/>
     <Routes>
     <Route exact path ="/" element =  {<Profile/>}> </Route>
+    <Route exact path ="/Portfolio-react/" element =  {<Profile/>}> </Route>
     <Route path ="/projects" element =  {<ProjectList/>}> </Route>
     <Route path="/projects/1" element={<MyDetective/>}></Route>
     <Route path="/projects/2" element={<CustomInventory/>}></Route>
