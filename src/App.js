@@ -15,7 +15,6 @@ function App() {
     <BrowserRouter>
     <div className="App">
     <HomepageNav/>
-    <Profile/>
     <Routes>
     <Route exact path ="/" element =  {<Profile/>}> </Route>
     <Route path ="/projects" element =  {<ProjectList/>}> </Route>
