@@ -19,7 +19,7 @@ export default function Profile(){
   <h2>What other interests do I have?</h2>
   <p>
   I am also interested in astronomy, physics and world history. Learning about these fields allow me to understand the principle of the
-  world that we are currently living and which directions should we go toward in cosmological and antropological prespectives. Also for my personal hoobies,
+  world that we are currently living and which directions should we go toward in cosmological and antropological prespectives. Also for my personal hobbies,
   I like to workout in gym, playing sports including soccer and American football!
   </p>
   </div>
