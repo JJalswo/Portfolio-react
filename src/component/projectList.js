@@ -5,7 +5,7 @@ export default function ProjectList() {
         { id: 1, name: "My Detective", description: "AI tool for interrogation using EEG data!" },
         { id: 2, name: "Customize Inventory", description: "Inventory managing software allows you to customize your items!" },
         { id: 3, name: "Voice Scorer", description: "Score the similarity of your voices to popular celebrities!" },
-        { id: 4, name: "Hack the the Human Vasculature in 3D  ", description: "Deep learning AI agent that helps segmenting the blood vessels from Kidney!" }
+        { id: 4, name: "Hack the Human Vasculature in 3D  ", description: "Deep learning AI agent that helps segmenting the blood vessels from Kidney!" }
     ];
     const handleProjectClick = (projectId) => {
         const path = `/projects/${projectId}`;

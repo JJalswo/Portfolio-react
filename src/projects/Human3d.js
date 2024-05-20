@@ -7,7 +7,7 @@ export default function HumanBlood(){
     return(
         <div className='project'>
             <img src={projectLogo} alt="HumanBlood" />
-            <h1>Hack the the Human Vasculature in 3D! </h1>
+            <h1>Hack the Human Vasculature in 3D! </h1>
             <h2>What is this project?</h2>
             <p>
                This is a project from Kaggle competetion "SenNet + HOA - Hacking the Human Vasculature in 3D".
