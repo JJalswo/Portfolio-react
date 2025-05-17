@@ -5,8 +5,9 @@ export default function Profile(){
          <img src= {prof} alt= "profile" />
   <h2>Who Am I?</h2>
   <p>
-  Hi there! I'm Minjae Jeong, currently studying Computer Science at the University of Alberta.
-  I like to challenge myself to learn and explore materials that I have never encountered including all of my fields of interests!
+    Hi, I'm Minjae Jeong — a Computer Science student at the University of Alberta.
+    I'm passionate about pushing my boundaries and diving into new topics, whether they're within my field or beyond. 
+    I thrive on challenges and love exploring uncharted territory, constantly seeking opportunities to grow, learn, and create.
   </p>
   <h2>What are the fields that I am interested in Computer Science?</h2>
   <p>

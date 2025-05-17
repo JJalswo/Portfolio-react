@@ -34,7 +34,7 @@ export default function HumanBlood(){
             The final layer utilizes 1x1 convolutions with sigmoid activation to produce a pixel-wise segmentation mask.
             </p>
 
-            <h2>Check out the github of this project!</h2>
+            <h2>Check out the project!</h2>
             <a href="#" onClick={handleGithubClick}><img src={githubImg} alt="GitHub" /></a>
         </div>
     )

@@ -1,8 +1,8 @@
 let projectLogo = require('../asset/microphone.png');
-let githubImg = require('../asset/github.png');
+let DevPostImg = require('../asset/devpost.png');
 export default function VoiceScorer(){
     function handleGithubClick() {
-        window.open('https://github.com/Voice-Scorer/Voice-Scorer', '_blank');
+        window.open('https://devpost.com/software/voice-score', '_blank');
     }
     return(
         <div className='project'>
@@ -19,8 +19,8 @@ export default function VoiceScorer(){
               neighbor algorithms for our model Training. Since it does not provide performance levels that we expect, it still needs 
               to be imporved with fine tuning.
             </p>
-            <h2>Check out the github of this project!</h2>
-            <a href="#" onClick={handleGithubClick}><img src={githubImg} alt="GitHub" /></a>
+            <h2>Check out the project!</h2>
+            <a href="#" onClick={handleGithubClick}><img src={DevPostImg} alt="GitHub" /></a>
         </div>
     )
 }

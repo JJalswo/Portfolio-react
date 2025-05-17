@@ -30,7 +30,7 @@ export default function CustomInventory(){
                 Camera-X API and Zxling library for barcode scanning. We also developed for unit and UI testing by using Android-Espresso.
 
             </p>
-            <h2>Check out the github of this project!</h2>
+            <h2>Check out the project!</h2>
             <a href="#" onClick={handleGithubClick}><img src={githubImg} alt="GitHub" /></a>
         </div>
     )

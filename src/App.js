@@ -8,6 +8,8 @@ import MyDetective from './projects/mydetective';
 import CustomInventory from './projects/customInventory';
 import HumanBlood from './projects/Human3d';
 import VoiceScorer from './projects/voiceScorer';
+import NeuroTune from './projects/NeuroTune';
+import EmploiF1rst from './projects/EmploiF1rst';
 
 
 function App() {
@@ -22,6 +24,8 @@ function App() {
     <Route path="/projects/2" element={<CustomInventory/>}></Route>
     <Route path="/projects/3" element={<VoiceScorer/>}></Route>
     <Route path="/projects/4" element={<HumanBlood/>}></Route>    
+    <Route path="/projects/5" element={<NeuroTune/>}></Route>    
+      <Route path="/projects/6" element={<EmploiF1rst/>}></Route>    
     <Route path ="/contacts" element = {<Contacts/>}></Route>
     </Routes>
     </div>
